@@ -17,7 +17,7 @@
     </template>
     <h1>Hello world!</h1>
     <post>
-    <template #title>Niggoerjnsadf</template>
+    <template #title>Nierjnsadf</template>
     <template #secondtitle>trololol</template>
   </post>
     
