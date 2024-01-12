@@ -3,9 +3,9 @@
 </script>
 
 <template>
-    <a :href="props.link"><slot>
+    <NuxtLink :to="props.link"><slot>
         default botton
-    </slot></a>
+    </slot></NuxtLink>
 </template>
 
 <style scoped>
