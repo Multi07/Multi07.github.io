@@ -3,7 +3,7 @@
     {name:"Home", url:"/"},
     {name:"About", url:"/about"},
     {name:"Projects", url:"/projects"},
-    {name:"Gallery", url:"/gallery"},
+    {name:"Gallery", url:"#gallery"},
   ]
 </script>
 
